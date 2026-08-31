@@ -1,0 +1,6 @@
+{
+  "name": "GameDistribution Hub",
+  "description": "An expansive HTML5 game portal featuring playable arcade, action, puzzle, racing, and sports games with fullscreen mode, achievements, and instant play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
